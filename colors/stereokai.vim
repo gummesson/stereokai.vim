@@ -11,7 +11,7 @@ endif
 let g:colors_name = "stereokai"
 
 " Editor highlighting
-highlight Cursor ctermfg=234 ctermbg=231 cterm=NONE guifg=#212121 guibg=#f8f8f0 gui=NONE
+highlight Cursor ctermfg=234 ctermbg=231 cterm=NONE guifg=#f8f8f2 guibg=#f92672 gui=NONE
 highlight Visual ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#444444 gui=NONE
 highlight CursorLine ctermfg=NONE ctermbg=59 cterm=NONE guifg=NONE guibg=#373736 gui=NONE
 highlight CursorLineNR ctermfg=231 ctermbg=NONE cterm=NONE guifg=#f8f8f2 guibg=NONE gui=bold
