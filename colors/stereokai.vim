@@ -23,7 +23,7 @@ highlight MatchParen ctermfg=197 ctermbg=238 cterm=NONE guifg=#f92672 guibg=#5f5
 highlight StatusLine ctermfg=231 ctermbg=59 cterm=NONE guifg=#f8f8f2 guibg=#5f5f5e gui=NONE
 highlight StatusLineNC ctermfg=231 ctermbg=59 cterm=NONE guifg=#f8f8f2 guibg=#5f5f5e gui=NONE
 highlight Pmenu ctermfg=NONE ctermbg=NONE cterm=NONE guifg=NONE guibg=#444444 gui=NONE
-highlight PmenuSel ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#5f5f5e gui=NONE
+highlight PmenuSel ctermfg=NONE ctermbg=238 cterm=NONE guifg=NONE guibg=#f92672 gui=NONE
 highlight WildMenu ctermfg=NONE ctermbg=53 cterm=NONE guifg=NONE guibg=#f92672 gui=NONE
 highlight IncSearch ctermfg=NONE ctermbg=53 cterm=NONE guifg=NONE guibg=#68233c gui=NONE
 highlight Search ctermfg=NONE ctermbg=53 cterm=NONE guifg=NONE guibg=#68233c gui=NONE
